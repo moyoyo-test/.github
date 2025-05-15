@@ -1,6 +1,6 @@
-# Testing Github Organization for Moxin-Models
+# Moxin-Models
 
-[Placeholder for Brief Intro & Logo]
+This is a sub-organization page for a brief intro of open sourced models in [Moxin Community](https://github.com/moxin-org).
 
 ## Moxin-LLM
 
