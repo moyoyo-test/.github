@@ -1,17 +1,29 @@
-# Testing Github Organization for moyoyo
+# Testing Github Organization for Moxin-Models
 
-## llms
+## Moxin-LLM
 
-These are projects we're working on:
+Moxin 7B, a new milestone in open large language model (LLM) development — designed to push the boundaries of performance and openness! 
 
-* [mx](https://github.com/moxin-org/Moxin-LLM) is a family of fully open-source and reproducible LLMs
-* [mx-hf](https://huggingface.co/moxin-org) is our model space
+* [Moxin-LLM](https://github.com/moxin-org/Moxin-LLM) All source codes and scripts for llm training and fine-tuning.
+* [moxin-org](https://huggingface.co/moxin-org) our huggingface page for all released models. 
 
-## Presentation
+Performance Highlights:
 
-links to our recent presentations
 
-## Project
+## Stable Diffusion Models
+
+locally running stable diffusion models on edge device - with flexible checkpoints and loRAs!
+
+* []()
+* our demo page
+* 
+
+
+
+## Model Pruning and Compressions
+
+Specialized pruning and quanlization of DeepSeek MoE and Qwen MoE
+
 
 ...
 
