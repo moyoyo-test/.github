@@ -10,7 +10,7 @@ A new milestone in open large language model (LLM) development — designed to p
 
 * [Moxin-LLM](https://github.com/moxin-org/Moxin-LLM) **True Transparency !**  full disclosure and reproducibility!
 * [Technical Report](https://arxiv.org/pdf/2412.06845) 7B Fully Open Source Moxin-LLM – From Pretraining to GRPO-based Reinforcement Learning Enhancement
-* [Huggingface Collection](https://huggingface.co/moxin-org) Huggingface Page for all released models. 
+* [🤗 Hugging Face](https://huggingface.co/moxin-org) Huggingface Page for all released models. 
 
 [Placeholder for Demo Video? / Performance table ?]
 
@@ -23,6 +23,7 @@ locally running stable diffusion models on **edge device** - with flexible check
 
 * [Ominix-SD](https://github.com/moxin-org/Ominix-SD.cpp) Significant inference speedups for SD.cpp
 * [Technical Report](https://arxiv.org/pdf/2412.05781) Open-Source Acceleration of Stable-Diffusion.cpp Deployable on All Devices
+* [🤗 Hugging Face]
 
 
 ## Moxin-TTS
@@ -31,6 +32,7 @@ locally running stable diffusion models on **edge device** - with flexible check
 
 * [Ominix TTS](https://github.com/moxin-org/Ominix-tts)  
 * [Technical Report]
+* [🤗 Hugging Face]
 
 [Placeholder for Demo?]
 
