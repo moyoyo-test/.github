@@ -1,28 +1,43 @@
 # Testing Github Organization for Moxin-Models
 
+[Placeholder for Brief Intro & Logo]
+
 ## Moxin-LLM
 
-Moxin 7B, a new milestone in open large language model (LLM) development — designed to push the boundaries of performance and openness! 
+A new milestone in open large language model (LLM) development — designed to push the boundaries of performance and openness! 
 
-* [Moxin-LLM](https://github.com/moxin-org/Moxin-LLM) All source codes and scripts for llm training and fine-tuning.
-* [moxin-org](https://huggingface.co/moxin-org) our huggingface page for all released models. 
+[Placeholder for Schematic Diagram]
 
-Performance Highlights:
+* [Moxin-LLM](https://github.com/moxin-org/Moxin-LLM) **True Transparency !**  full disclosure and reproducibility!
+* [Technical Report](https://arxiv.org/pdf/2412.06845) 7B Fully Open Source Moxin-LLM – From Pretraining to GRPO-based Reinforcement Learning Enhancement
+* [Huggingface Collection](https://huggingface.co/moxin-org) Huggingface Page for all released models. 
+
+[Placeholder for Demo Video? / Performance table ?]
+
+## Moxin-SD
+
+locally running stable diffusion models on **edge device** - with flexible checkpoints and loRAs!
+
+<img width="701" alt="image" src="https://github.com/user-attachments/assets/2d759c8d-eff8-4677-869a-bfdb1fa517ce" />
 
 
-## Stable Diffusion Models
-
-locally running stable diffusion models on edge device - with flexible checkpoints and loRAs!
-
-* []()
-* our demo page
-* 
+* [Ominix-SD](https://github.com/moxin-org/Ominix-SD.cpp) Significant inference speedups for SD.cpp
+* [Technical Report](https://arxiv.org/pdf/2412.05781) Open-Source Acceleration of Stable-Diffusion.cpp Deployable on All Devices
 
 
+## Moxin-TTS
 
-## Model Pruning and Compressions
+[Placeholder for intro and Schematic Diagram]
 
-Specialized pruning and quanlization of DeepSeek MoE and Qwen MoE
+* [Ominix TTS](https://github.com/moxin-org/Ominix-tts)  
+* [Technical Report]
+
+[Placeholder for Demo?]
+
+
+## Moxin-Pruning & Compression (tbd)
+
+Specialized pruning and quanlization for LLMs like DeepSeek MoE and Qwen MoE
 
 
 ...
